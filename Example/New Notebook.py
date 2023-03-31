@@ -1,2 +1,2 @@
 # Databricks notebook source
-df = spark.write.
+df = spark.table("default.bronzetable_phoneaccel")
